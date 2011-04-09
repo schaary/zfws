@@ -16,3 +16,9 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+.buildpath
+.project
+.settings/com.zend.php.javabridge.core.prefs
+.settings/org.eclipse.php.core.prefs
+.settings/org.eclipse.php.core.projectOptions.prefs
+.zfproject.xml
